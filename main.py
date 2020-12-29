@@ -1,7 +1,7 @@
-def name(Dwight):
-    return "Dwight"
+def name():
+    return "Clayton"
 
-print (name("Dwight"))
+print (name())
 
 #def favorites(favColor, favNum):
 #    return My favorite color is "favColor" and my favorite number is "favNum" 
